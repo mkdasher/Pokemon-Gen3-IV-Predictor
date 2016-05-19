@@ -1,0 +1,538 @@
+ID,Name,Pocket
+0,(none),Unknown Pocket
+1,Master Ball,Poke Balls Pocket
+2,Ultra Ball,Poke Balls Pocket
+3,Great Ball,Poke Balls Pocket
+4,Poke Ball,Poke Balls Pocket
+5,Safari Ball,Poke Balls Pocket
+6,Net Ball,Poke Balls Pocket
+7,Dive Ball,Poke Balls Pocket
+8,Nest Ball,Poke Balls Pocket
+9,Repeat Ball,Poke Balls Pocket
+10,Timer Ball,Poke Balls Pocket
+11,Luxury Ball,Poke Balls Pocket
+12,Premier Ball,Poke Balls Pocket
+13,Dusk Ball,Poke Balls Pocket
+14,Heal Ball,Poke Balls Pocket
+15,Quick Ball,Poke Balls Pocket
+16,Cherish Ball,Poke Balls Pocket
+17,Potion,Medicine Pocket
+18,Antidote,Medicine Pocket
+19,Burn Heal,Medicine Pocket
+20,Ice Heal,Medicine Pocket
+21,Awakening,Medicine Pocket
+22,Parlyz Heal,Medicine Pocket
+23,Full Restore,Medicine Pocket
+24,Max Potion,Medicine Pocket
+25,Hyper Potion,Medicine Pocket
+26,Super Potion,Medicine Pocket
+27,Full Heal,Medicine Pocket
+28,Revive,Medicine Pocket
+29,Max Revive,Medicine Pocket
+30,Fresh Water,Medicine Pocket
+31,Soda Pop,Medicine Pocket
+32,Lemonade,Medicine Pocket
+33,Moomoo Milk,Medicine Pocket
+34,EnergyPowder,Medicine Pocket
+35,Energy Root,Medicine Pocket
+36,Heal Powder,Medicine Pocket
+37,Revival Herb,Medicine Pocket
+38,Ether,Medicine Pocket
+39,Max Ether,Medicine Pocket
+40,Elixir,Medicine Pocket
+41,Max Elixir,Medicine Pocket
+42,Lava Cookie,Medicine Pocket
+43,Berry Juice,Medicine Pocket
+44,Sacred Ash,Medicine Pocket
+45,HP Up,Medicine Pocket
+46,Protein,Medicine Pocket
+47,Iron,Medicine Pocket
+48,Carbos,Medicine Pocket
+49,Calcium,Medicine Pocket
+50,Rare Candy,Medicine Pocket
+51,PP Up,Medicine Pocket
+52,Zinc,Medicine Pocket
+53,PP Max,Medicine Pocket
+54,Old Gateau,Medicine Pocket
+55,Guard Spec.,Battle Items Pocket
+56,Dire Hit,Battle Items Pocket
+57,X Attack,Battle Items Pocket
+58,X Defend,Battle Items Pocket
+59,X Speed,Battle Items Pocket
+60,X Accuracy,Battle Items Pocket
+61,X Special,Battle Items Pocket
+62,X Sp. Def,Battle Items Pocket
+63,Poke Doll,Battle Items Pocket
+64,Fluffy Tail,Battle Items Pocket
+65,Blue Flute,Battle Items Pocket
+66,Yellow Flute,Battle Items Pocket
+67,Red Flute,Battle Items Pocket
+68,Black Flute,Items Pocket
+69,White Flute,Items Pocket
+70,Shoal Salt,Items Pocket
+71,Shoal Shell,Items Pocket
+72,Red Shard,Items Pocket
+73,Blue Shard,Items Pocket
+74,Yellow Shard,Items Pocket
+75,Green Shard,Items Pocket
+76,Super Repel,Items Pocket
+77,Max Repel,Items Pocket
+78,Escape Rope,Items Pocket
+79,Repel,Items Pocket
+80,Sun Stone,Items Pocket
+81,Moon Stone,Items Pocket
+82,Fire Stone,Items Pocket
+83,Thunder Stone,Items Pocket
+84,Water Stone,Items Pocket
+85,Leaf Stone,Items Pocket
+86,TinyMushroom,Items Pocket
+87,Big Mushroom,Items Pocket
+88,Pearl,Items Pocket
+89,Big Pearl,Items Pocket
+90,Stardust,Items Pocket
+91,Star Piece,Items Pocket
+92,Nugget,Items Pocket
+93,Heart Scale,Items Pocket
+94,Honey,Items Pocket
+95,Growth Mulch,Items Pocket
+96,Damp Mulch,Items Pocket
+97,Stable Mulch,Items Pocket
+98,Gooey Mulch,Items Pocket
+99,Root Fossil,Items Pocket
+100,Claw Fossil,Items Pocket
+101,Helix Fossil,Items Pocket
+102,Dome Fossil,Items Pocket
+103,Old Amber,Items Pocket
+104,Armor Fossil,Items Pocket
+105,Skull Fossil,Items Pocket
+106,Rare Bone,Items Pocket
+107,Shiny Stone,Items Pocket
+108,Dusk Stone,Items Pocket
+109,Dawn Stone,Items Pocket
+110,Oval Stone,Items Pocket
+111,Odd Keystone,Items Pocket
+112,Griseous Orb,Items Pocket
+113,unknown,Unknown Pocket
+114,unknown,Unknown Pocket
+115,unknown,Unknown Pocket
+116,unknown,Unknown Pocket
+117,unknown,Unknown Pocket
+118,unknown,Unknown Pocket
+119,unknown,Unknown Pocket
+120,unknown,Unknown Pocket
+121,unknown,Unknown Pocket
+122,unknown,Unknown Pocket
+123,unknown,Unknown Pocket
+124,unknown,Unknown Pocket
+125,unknown,Unknown Pocket
+126,unknown,Unknown Pocket
+127,unknown,Unknown Pocket
+128,unknown,Unknown Pocket
+129,unknown,Unknown Pocket
+130,unknown,Unknown Pocket
+131,unknown,Unknown Pocket
+132,unknown,Unknown Pocket
+133,unknown,Unknown Pocket
+134,unknown,Unknown Pocket
+135,Adamant Orb,Items Pocket
+136,Lustrous Orb,Items Pocket
+137,Grass Mail,Mail Pocket
+138,Flame Mail,Mail Pocket
+139,Bubble Mail,Mail Pocket
+140,Bloom Mail,Mail Pocket
+141,Tunnel Mail,Mail Pocket
+142,Steel Mail,Mail Pocket
+143,Heart Mail,Mail Pocket
+144,Snow Mail,Mail Pocket
+145,Space Mail,Mail Pocket
+146,Air Mail,Mail Pocket
+147,Mosaic Mail,Mail Pocket
+148,Brick Mail,Mail Pocket
+149,Cheri Berry,Berries Pocket
+150,Chesto Berry,Berries Pocket
+151,Pecha Berry,Berries Pocket
+152,Rawst Berry,Berries Pocket
+153,Aspear Berry,Berries Pocket
+154,Leppa Berry,Berries Pocket
+155,Oran Berry,Berries Pocket
+156,Persim Berry,Berries Pocket
+157,Lum Berry,Berries Pocket
+158,Sitrus Berry,Berries Pocket
+159,Figy Berry,Berries Pocket
+160,Wiki Berry,Berries Pocket
+161,Mago Berry,Berries Pocket
+162,Aguav Berry,Berries Pocket
+163,Iapapa Berry,Berries Pocket
+164,Razz Berry,Berries Pocket
+165,Bluk Berry,Berries Pocket
+166,Nanab Berry,Berries Pocket
+167,Wepear Berry,Berries Pocket
+168,Pinap Berry,Berries Pocket
+169,Pomeg Berry,Berries Pocket
+170,Kelpsy Berry,Berries Pocket
+171,Qualot Berry,Berries Pocket
+172,Hondew Berry,Berries Pocket
+173,Grepa Berry,Berries Pocket
+174,Tamato Berry,Berries Pocket
+175,Cornn Berry,Berries Pocket
+176,Magost Berry,Berries Pocket
+177,Rabuta Berry,Berries Pocket
+178,Nomel Berry,Berries Pocket
+179,Spelon Berry,Berries Pocket
+180,Pamtre Berry,Berries Pocket
+181,Watmel Berry,Berries Pocket
+182,Durin Berry,Berries Pocket
+183,Belue Berry,Berries Pocket
+184,Occa Berry,Berries Pocket
+185,Passho Berry,Berries Pocket
+186,Wacan Berry,Berries Pocket
+187,Rindo Berry,Berries Pocket
+188,Yache Berry,Berries Pocket
+189,Chople Berry,Berries Pocket
+190,Kebia Berry,Berries Pocket
+191,Shuca Berry,Berries Pocket
+192,Coba Berry,Berries Pocket
+193,Payapa Berry,Berries Pocket
+194,Tanga Berry,Berries Pocket
+195,Charti Berry,Berries Pocket
+196,Kasib Berry,Berries Pocket
+197,Haban Berry,Berries Pocket
+198,Colbur Berry,Berries Pocket
+199,Babiri Berry,Berries Pocket
+200,Chilan Berry,Berries Pocket
+201,Liechi Berry,Berries Pocket
+202,Ganlon Berry,Berries Pocket
+203,Salac Berry,Berries Pocket
+204,Petaya Berry,Berries Pocket
+205,Apicot Berry,Berries Pocket
+206,Lansat Berry,Berries Pocket
+207,Starf Berry,Berries Pocket
+208,Enigma Berry,Berries Pocket
+209,Micle Berry,Berries Pocket
+210,Custap Berry,Berries Pocket
+211,Jaboca Berry,Berries Pocket
+212,Rowap Berry,Berries Pocket
+213,BrightPowder,Items Pocket
+214,White Herb,Items Pocket
+215,Macho Brace,Items Pocket
+216,Exp. Share,Items Pocket
+217,Quick Claw,Items Pocket
+218,Soothe Bell,Items Pocket
+219,Mental Herb,Items Pocket
+220,Choice Band,Items Pocket
+221,King's Rock,Items Pocket
+222,SilverPowder,Items Pocket
+223,Amulet Coin,Items Pocket
+224,Cleanse Tag,Items Pocket
+225,Soul Dew,Items Pocket
+226,DeepSeaTooth,Items Pocket
+227,DeepSeaScale,Items Pocket
+228,Smoke Ball,Items Pocket
+229,Everstone,Items Pocket
+230,Focus Band,Items Pocket
+231,Lucky Egg,Items Pocket
+232,Scope Lens,Items Pocket
+233,Metal Coat,Items Pocket
+234,Leftovers,Items Pocket
+235,Dragon Scale,Items Pocket
+236,Light Ball,Items Pocket
+237,Soft Sand,Items Pocket
+238,Hard Stone,Items Pocket
+239,Miracle Seed,Items Pocket
+240,BlackGlasses,Items Pocket
+241,Black Belt,Items Pocket
+242,Magnet,Items Pocket
+243,Mystic Water,Items Pocket
+244,Sharp Beak,Items Pocket
+245,Poison Barb,Items Pocket
+246,NeverMeltIce,Items Pocket
+247,Spell Tag,Items Pocket
+248,TwistedSpoon,Items Pocket
+249,Charcoal,Items Pocket
+250,Dragon Fang,Items Pocket
+251,Silk Scarf,Items Pocket
+252,Up-Grade,Items Pocket
+253,Shell Bell,Items Pocket
+254,Sea Incense,Items Pocket
+255,Lax Incense,Items Pocket
+256,Lucky Punch,Items Pocket
+257,Metal Powder,Items Pocket
+258,Thick Club,Items Pocket
+259,Stick,Items Pocket
+260,Red Scarf,Items Pocket
+261,Blue Scarf,Items Pocket
+262,Pink Scarf,Items Pocket
+263,Green Scarf,Items Pocket
+264,Yellow Scarf,Items Pocket
+265,Wide Lens,Items Pocket
+266,Muscle Band,Items Pocket
+267,Wise Glasses,Items Pocket
+268,Expert Belt,Items Pocket
+269,Light Clay,Items Pocket
+270,Life Orb,Items Pocket
+271,Power Herb,Items Pocket
+272,Toxic Orb,Items Pocket
+273,Flame Orb,Items Pocket
+274,Quick Powder,Items Pocket
+275,Focus Sash,Items Pocket
+276,Zoom Lens,Items Pocket
+277,Metronome,Items Pocket
+278,Iron Ball,Items Pocket
+279,Lagging Tail,Items Pocket
+280,Destiny Knot,Items Pocket
+281,Black Sludge,Items Pocket
+282,Icy Rock,Items Pocket
+283,Smooth Rock,Items Pocket
+284,Heat Rock,Items Pocket
+285,Damp Rock,Items Pocket
+286,Grip Claw,Items Pocket
+287,Choice Scarf,Items Pocket
+288,Sticky Barb,Items Pocket
+289,Power Bracer,Items Pocket
+290,Power Belt,Items Pocket
+291,Power Lens,Items Pocket
+292,Power Band,Items Pocket
+293,Power Anklet,Items Pocket
+294,Power Weight,Items Pocket
+295,Shed Shell,Items Pocket
+296,Big Root,Items Pocket
+297,Choice Specs,Items Pocket
+298,Flame Plate,Items Pocket
+299,Splash Plate,Items Pocket
+300,Zap Plate,Items Pocket
+301,Meadow Plate,Items Pocket
+302,Icicle Plate,Items Pocket
+303,Fist Plate,Items Pocket
+304,Toxic Plate,Items Pocket
+305,Earth Plate,Items Pocket
+306,Sky Plate,Items Pocket
+307,Mind Plate,Items Pocket
+308,Insect Plate,Items Pocket
+309,Stone Plate,Items Pocket
+310,Spooky Plate,Items Pocket
+311,Draco Plate,Items Pocket
+312,Dread Plate,Items Pocket
+313,Iron Plate,Items Pocket
+314,Odd Incense,Items Pocket
+315,Rock Incense,Items Pocket
+316,Full Incense,Items Pocket
+317,Wave Incense,Items Pocket
+318,Rose Incense,Items Pocket
+319,Luck Incense,Items Pocket
+320,Pure Incense,Items Pocket
+321,Protector,Items Pocket
+322,Electirizer,Items Pocket
+323,Magmarizer,Items Pocket
+324,Dubious Disc,Items Pocket
+325,Reaper Cloth,Items Pocket
+326,Razor Claw,Items Pocket
+327,Razor Fang,Items Pocket
+328,TM01 - Focus Punch,TMs and HMs Pocket
+329,TM02 - Dragon Claw,TMs and HMs Pocket
+330,TM03 - Water Pulse,TMs and HMs Pocket
+331,TM04 - Calm Mind,TMs and HMs Pocket
+332,TM05 - Roar,TMs and HMs Pocket
+333,TM06 - Toxic,TMs and HMs Pocket
+334,TM07 - Hail,TMs and HMs Pocket
+335,TM08 - Bulk Up,TMs and HMs Pocket
+336,TM09 - Bullet Seed,TMs and HMs Pocket
+337,TM10 - Hidden Power,TMs and HMs Pocket
+338,TM11 - Sunny Day,TMs and HMs Pocket
+339,TM12 - Taunt,TMs and HMs Pocket
+340,TM13 - Ice Beam,TMs and HMs Pocket
+341,TM14 - Blizzard,TMs and HMs Pocket
+342,TM15 - Hyper Beam,TMs and HMs Pocket
+343,TM16 - Light Screen,TMs and HMs Pocket
+344,TM17 - Protect,TMs and HMs Pocket
+345,TM18 - Rain Dance,TMs and HMs Pocket
+346,TM19 - Giga Drain,TMs and HMs Pocket
+347,TM20 - Safeguard,TMs and HMs Pocket
+348,TM21 - Frustration,TMs and HMs Pocket
+349,TM22 - SolarBeam,TMs and HMs Pocket
+350,TM23 - Iron Tail,TMs and HMs Pocket
+351,TM24 - Thunderbolt,TMs and HMs Pocket
+352,TM25 - Thunder,TMs and HMs Pocket
+353,TM26 - Earthquake,TMs and HMs Pocket
+354,TM27 - Return,TMs and HMs Pocket
+355,TM28 - Dig,TMs and HMs Pocket
+356,TM29 - Psychic,TMs and HMs Pocket
+357,TM30 - Shadow Ball,TMs and HMs Pocket
+358,TM31 - Brick Break,TMs and HMs Pocket
+359,TM32 - Double Team,TMs and HMs Pocket
+360,TM33 - Reflect,TMs and HMs Pocket
+361,TM34 - Shock Wave,TMs and HMs Pocket
+362,TM35 - Flamethrower,TMs and HMs Pocket
+363,TM36 - Sludge Bomb,TMs and HMs Pocket
+364,TM37 - Sandstorm,TMs and HMs Pocket
+365,TM38 - Fire Blast,TMs and HMs Pocket
+366,TM39 - Rock Tomb,TMs and HMs Pocket
+367,TM40 - Aerial Ace,TMs and HMs Pocket
+368,TM41 - Torment,TMs and HMs Pocket
+369,TM42 - Facade,TMs and HMs Pocket
+370,TM43 - Secret Power,TMs and HMs Pocket
+371,TM44 - Rest,TMs and HMs Pocket
+372,TM45 - Attract,TMs and HMs Pocket
+373,TM46 - Thief,TMs and HMs Pocket
+374,TM47 - Steel Wing,TMs and HMs Pocket
+375,TM48 - Skill Swap,TMs and HMs Pocket
+376,TM49 - Snatch,TMs and HMs Pocket
+377,TM50 - Overheat,TMs and HMs Pocket
+378,TM51 - Roost,TMs and HMs Pocket
+379,TM52 - Focus Blast,TMs and HMs Pocket
+380,TM53 - Energy Ball,TMs and HMs Pocket
+381,TM54 - False Swipe,TMs and HMs Pocket
+382,TM55 - Brine,TMs and HMs Pocket
+383,TM56 - Fling,TMs and HMs Pocket
+384,TM57 - Charge Beam,TMs and HMs Pocket
+385,TM58 - Endure,TMs and HMs Pocket
+386,TM59 - Dragon Pulse,TMs and HMs Pocket
+387,TM60 - Drain Punch,TMs and HMs Pocket
+388,TM61 - Will-O-Wisp,TMs and HMs Pocket
+389,TM62 - Silver Wind,TMs and HMs Pocket
+390,TM63 - Embargo,TMs and HMs Pocket
+391,TM64 - Explosion,TMs and HMs Pocket
+392,TM65 - Shadow Claw,TMs and HMs Pocket
+393,TM66 - Payback,TMs and HMs Pocket
+394,TM67 - Recycle,TMs and HMs Pocket
+395,TM68 - Giga Impact,TMs and HMs Pocket
+396,TM69 - Rock Polish,TMs and HMs Pocket
+397,TM70 - Flash,TMs and HMs Pocket
+398,TM71 - Stone Edge,TMs and HMs Pocket
+399,TM72 - Avalanche,TMs and HMs Pocket
+400,TM73 - Thunder Wave,TMs and HMs Pocket
+401,TM74 - Gyro Ball,TMs and HMs Pocket
+402,TM75 - Swords Dance,TMs and HMs Pocket
+403,TM76 - Stealth Rock,TMs and HMs Pocket
+404,TM77 - Psych Up,TMs and HMs Pocket
+405,TM78 - Captivate,TMs and HMs Pocket
+406,TM79 - Dark Pulse,TMs and HMs Pocket
+407,TM80 - Rock Slide,TMs and HMs Pocket
+408,TM81 - X-Scissor,TMs and HMs Pocket
+409,TM82 - Sleep Talk,TMs and HMs Pocket
+410,TM83 - Natural Gift,TMs and HMs Pocket
+411,TM84 - Poison Jab,TMs and HMs Pocket
+412,TM85 - Dream Eater,TMs and HMs Pocket
+413,TM86 - Grass Knot,TMs and HMs Pocket
+414,TM87 - Swagger,TMs and HMs Pocket
+415,TM88 - Pluck,TMs and HMs Pocket
+416,TM89 - U-turn,TMs and HMs Pocket
+417,TM90 - Substitute,TMs and HMs Pocket
+418,TM91 - Flash Cannon,TMs and HMs Pocket
+419,TM92 - Trick Room,TMs and HMs Pocket
+420,HM01 - Cut,TMs and HMs Pocket
+421,HM02 - Fly,TMs and HMs Pocket
+422,HM03 - Surf,TMs and HMs Pocket
+423,HM04 - Strength,TMs and HMs Pocket
+424,HM05 - Whirlpool,TMs and HMs Pocket
+425,HM06 - Rock Smash,TMs and HMs Pocket
+426,HM07 - Waterfall,TMs and HMs Pocket
+427,HM08 - Rock Climb,TMs and HMs Pocket
+428,Explorer Kit,Key Items Pocket
+429,Loot Sack,Key Items Pocket
+430,Rule Book,Key Items Pocket
+431,Poke Radar,Key Items Pocket
+432,Point Card,Key Items Pocket
+433,Journal,Key Items Pocket
+434,Seal Case,Key Items Pocket
+435,Fashion Case,Key Items Pocket
+436,Seal Bag,Key Items Pocket
+437,Pal Pad,Key Items Pocket
+438,Works Key,Key Items Pocket
+439,Old Charm,Key Items Pocket
+440,Galactic Key,Key Items Pocket
+441,Red Chain,Key Items Pocket
+442,Town Map,Key Items Pocket
+443,Vs. Seeker,Key Items Pocket
+444,Coin Case,Key Items Pocket
+445,Old Rod,Key Items Pocket
+446,Good Rod,Key Items Pocket
+447,Super Rod,Key Items Pocket
+448,Sprayduck,Key Items Pocket
+449,Poffin Case,Key Items Pocket
+450,Bicycle,Key Items Pocket
+451,Suite Key,Key Items Pocket
+452,Oak's Letter,Key Items Pocket
+453,Lunar Wing,Key Items Pocket
+454,Member Card,Key Items Pocket
+455,Azure Flute,Key Items Pocket
+456,S.S. Ticket,Key Items Pocket
+457,Contest Pass,Key Items Pocket
+458,Magma Stone,Key Items Pocket
+459,Parcel,Key Items Pocket
+460,Coupon 1,Key Items Pocket
+461,Coupon 2,Key Items Pocket
+462,Coupon 3,Key Items Pocket
+463,Storage Key,Key Items Pocket
+464,SecretPotion,Key Items Pocket
+465,Vs. Recorder,Key Items Pocket
+466,Gracidea,Key Items Pocket
+467,Secret Key,Key Items Pocket
+468,Apricorn Box,Key Items Pocket
+469,Unown Report,Key Items Pocket
+470,Berry Pots,Key Items Pocket
+471,Dowsing MCHN,Key Items Pocket
+472,Blue Card,Key Items Pocket
+473,SlowpokeTail,Key Items Pocket
+474,Clear Bell,Key Items Pocket
+475,Card Key,Key Items Pocket
+476,Basement Key,Key Items Pocket
+477,SquirtBottle,Key Items Pocket
+478,Red Scale,Key Items Pocket
+479,Lost Item,Key Items Pocket
+480,Pass,Key Items Pocket
+481,Machine Part,Key Items Pocket
+482,Silver Wing,Key Items Pocket
+483,Rainbow Wing,Key Items Pocket
+484,Mystery Egg,Key Items Pocket
+485,Red Apricorn,Unknown Pocket
+486,Ylw Apricorn,Unknown Pocket
+487,Blu Apricorn,Unknown Pocket
+488,Grn Apricorn,Unknown Pocket
+489,Pnk Apricorn,Unknown Pocket
+490,Wht Apricorn,Unknown Pocket
+491,Blk Apricorn,Unknown Pocket
+492,Fast Ball,Poke Balls Pocket
+493,Level Ball,Poke Balls Pocket
+494,Lure Ball,Poke Balls Pocket
+495,Heavy Ball,Poke Balls Pocket
+496,Love Ball,Poke Balls Pocket
+497,Friend Ball,Poke Balls Pocket
+498,Moon Ball,Poke Balls Pocket
+499,Sport Ball,Poke Balls Pocket
+500,Park Ball,Poke Balls Pocket
+501,Photo Album,Key Items Pocket
+502,GB Sounds,Key Items Pocket
+503,Tidal Bell,Key Items Pocket
+504,RageCandyBar,Key Items Pocket
+505,Data Card 01,Unknown Pocket
+506,Data Card 02,Unknown Pocket
+507,Data Card 03,Unknown Pocket
+508,Data Card 04,Unknown Pocket
+509,Data Card 05,Unknown Pocket
+510,Data Card 06,Unknown Pocket
+511,Data Card 07,Unknown Pocket
+512,Data Card 08,Unknown Pocket
+513,Data Card 09,Unknown Pocket
+514,Data Card 10,Unknown Pocket
+515,Data Card 11,Unknown Pocket
+516,Data Card 12,Unknown Pocket
+517,Data Card 13,Unknown Pocket
+518,Data Card 14,Unknown Pocket
+519,Data Card 15,Unknown Pocket
+520,Data Card 16,Unknown Pocket
+521,Data Card 17,Unknown Pocket
+522,Data Card 18,Unknown Pocket
+523,Data Card 19,Unknown Pocket
+524,Data Card 20,Unknown Pocket
+525,Data Card 21,Unknown Pocket
+526,Data Card 22,Unknown Pocket
+527,Data Card 23,Unknown Pocket
+528,Data Card 24,Unknown Pocket
+529,Data Card 25,Unknown Pocket
+530,Data Card 26,Unknown Pocket
+531,Data Card 27,Unknown Pocket
+532,Jade Orb,Key Items Pocket
+533,Lock Capsule,Key Items Pocket
+534,Red Orb,Key Items Pocket
+535,Blue Orb,Key Items Pocket
+536,Enigma Stone,Key Items Pocket

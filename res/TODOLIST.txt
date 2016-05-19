@@ -1,0 +1,10 @@
+Priority 0:
+- Event info: complete.
+- Fix limits (lv 100, EV 255 / Total 510)
+
+Priority 1:
+- Damage Range calc.
+- Possibility to load / save trainer / pokemon.
+
+Priority 2:
+- Create Trade Panel
